@@ -17,8 +17,8 @@ A backend API built with **Spring Boot 3**, **Spring Security (JWT)**, and **Pos
 
 ## 🛠️ Tech Stack
 - **Java 17+**
-- **Spring Boot 3.5.x**
-- **Spring Security 6** (JWT auth)
+- **Spring Boot 3**
+- **Spring Security** (JWT auth)
 - **Spring Data JPA (Hibernate)**
 - **PostgreSQL**
 - **BCrypt** for password hashing
